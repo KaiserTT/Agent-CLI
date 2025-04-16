@@ -37,7 +37,7 @@
 1. 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/agent_cli.git
+git clone https://github.com/KaiserTT/agent_cli.git
 cd agent_cli
 ```
 
