@@ -38,7 +38,7 @@
 
 ```bash
 git clone https://github.com/KaiserTT/Agent-CLI.git
-cd agent_cli
+cd Agent-CLI
 ```
 
 2. 安装依赖
