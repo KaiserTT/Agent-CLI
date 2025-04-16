@@ -1,0 +1,7 @@
+{
+    "provider": "deepseek",
+    "api_key": "your_api_key_here",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-chat",
+    "system_prompt": "You are a helpful assistant. Answer in Chinese."
+}
