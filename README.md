@@ -2,7 +2,7 @@
 
 > 一个受绿导师《操作系统》课程启发的命令行 AI 玩具，支持对话、多轮上下文、文件/命令输出分析、流式响应、丰富指令等。
 
-
+![](images/hello.png)
 
 ## 目录
 
@@ -115,6 +115,8 @@ cat your_code.py | agent "请分析上述代码"
 ls /not-exist 2>&1 | agent "帮我解释上面这个报错"
 agent < your_code.c "解释这份代码"
 ```
+
+![](images/pipe.png)
 
 ### 分析 bash 命令输出
 
